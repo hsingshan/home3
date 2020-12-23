@@ -1,0 +1,72 @@
+@charset "utf-8";
+.txt_number {
+	color:rgba(45,45,45,0.92);
+	font-family: "微軟正黑體", Lato;
+}
+.carousel-caption h1  {
+	font-size: 150px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	opacity: 0.7;
+}
+.no_space {
+	padding-left: 0px;
+	padding-right: 0px;
+
+}
+.row {
+	margin: 0px;
+	width: 100%;
+}
+
+nav a{
+	padding-left: 10px;
+	padding-right: 10px;
+	font-style: 1.25em;
+	display: block;
+	line-height: 3em;
+	font-family: "微軟正黑體", Lato;
+	color: white;
+}
+nav a:hover{
+	color: #2E2E2E;
+	background-color: #F1C600;
+	text-decoration: none;
+}
+.white{
+	color: white;
+}
+.white:hover{
+	color: #2E2E2E;
+	background-color: #F1C600;
+	text-decoration: none;
+}
+.col-lg-12 {
+	padding: 0px;
+}
+.center-block{
+	margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.blue {
+	background-color: rgba(89,220,241,1.00);
+	padding: 10px;
+	border: 5px solid #FFFFFF;
+}
+.blue:hover {
+	background-color: #F9E36F;
+}
+
+.green {
+	background-color: #8FDFB8;
+	border: 5px solid #FFFFFF;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+}
+.green:hover {
+	background-color: #FBA9AA;
+}
+/* CSS Document */
+
